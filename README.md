@@ -1,7 +1,7 @@
 # Data-Analysis-using-Microsoft-Excel
 ## Let you learn how to use MS Excel for Data Analysis
 
-##Part#01:
+## Part#01:
 The first file with the title 'sales_data_analysis' is the original file. 
 The file 'sales_data_analyzed' is analyzed, which presents the overall view of this project. 
 In this project, I have done the following:
@@ -12,7 +12,7 @@ In this project, I have done the following:
 6. VLOOKUP function (to relate tables located in different sheets and searching for particular information)
 7. Pivot table (to analyze or summarize the data by seeing or comparing it)
 
-##Part#02:
+## Part#02:
 I have done some tasks which cover Descriptive Statistics topics. These are:
 1. Visualizing Categorical Data
 2. Visualizing Numerical Data
