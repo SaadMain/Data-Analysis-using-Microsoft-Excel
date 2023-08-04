@@ -12,3 +12,12 @@ In this project, I have done the following:
 6. VLOOKUP function (to relate tables located in different sheets and searching for particular information)
 7. Pivot table (to analyze or summarize the data by seeing or comparing it)
 
+Next part, I have done some tasks which cover Descriptive Statistics topics. Such as:
+1. Visualizing Categorical Data
+2. Visualizing Numerical Data
+3. Useful insights from Cross Table 
+4. Interpreting Scatter Plot
+5. Measure Central Tendencies
+6. Finding Population vs Sample Variance
+7. Finding Standard Deviation (SD) and Co-efficient of Variance (COV)
+8. Finding Correlation 
